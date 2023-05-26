@@ -1,0 +1,251 @@
+full_name,short_name_lower_case,remarks,independent_bool,territory_name,alpha2_code,alpha3_code,numeric_code,assignment_status
+Afghanistan,afghanistan,,Yes,,AF,AFG,004,OfficiallyAssigned
+Åland Islands,aland islands,,No,,AX,ALA,248,OfficiallyAssigned
+Albania,albania,,Yes,,AL,ALB,008,OfficiallyAssigned
+Algeria,algeria,,Yes,,DZ,DZA,012,OfficiallyAssigned
+American Samoa,american samoa,,No,,AS,ASM,016,OfficiallyAssigned
+Andorra,andorra,,Yes,,AD,AND,020,OfficiallyAssigned
+Angola,angola,,Yes,,AO,AGO,024,OfficiallyAssigned
+Anguilla,anguilla,,No,,AI,AIA,660,OfficiallyAssigned
+Antarctica,antarctica,,No,,AQ,ATA,010,OfficiallyAssigned
+Antigua and Barbuda,antigua and barbuda,,Yes,,AG,ATG,028,OfficiallyAssigned
+Argentina,argentina,,Yes,,AR,ARG,032,OfficiallyAssigned
+Armenia,armenia,,Yes,,AM,ARM,051,OfficiallyAssigned
+Aruba,aruba,,No,,AW,ABW,533,OfficiallyAssigned
+Australia,australia,,Yes,,AU,AUS,036,OfficiallyAssigned
+Austria,austria,,Yes,,AT,AUT,040,OfficiallyAssigned
+Azerbaijan,azerbaijan,,Yes,,AZ,AZE,031,OfficiallyAssigned
+Bahamas,bahamas,,Yes,,BS,BHS,044,OfficiallyAssigned
+Bahrain,bahrain,,Yes,,BH,BHR,048,OfficiallyAssigned
+Bangladesh,bangladesh,,Yes,,BD,BGD,050,OfficiallyAssigned
+Barbados,barbados,,Yes,,BB,BRB,052,OfficiallyAssigned
+Belarus,belarus,,Yes,,BY,BLR,112,OfficiallyAssigned
+Belgium,belgium,,Yes,,BE,BEL,056,OfficiallyAssigned
+Belize,belize,,Yes,,BZ,BLZ,084,OfficiallyAssigned
+Benin,benin,,Yes,,BJ,BEN,204,OfficiallyAssigned
+Bermuda,bermuda,,No,,BM,BMU,060,OfficiallyAssigned
+Bhutan,bhutan,,Yes,,BT,BTN,064,OfficiallyAssigned
+Bolivia (Plurinational State of),bolivia (plurinational state of),,Yes,,BO,BOL,068,OfficiallyAssigned
+"Bonaire, Sint Eustatius and Saba",bonaire,,No,,BQ,BES,535,TransitionallyReserved
+Bosnia and Herzegovina,bosnia and herzegovina,,Yes,,BA,BIH,070,OfficiallyAssigned
+Botswana,botswana,,Yes,,BW,BWA,072,OfficiallyAssigned
+Bouvet Island,bouvet island,,No,,BV,BVT,074,OfficiallyAssigned
+Brazil,brazil,,Yes,,BR,BRA,076,OfficiallyAssigned
+British Indian Ocean Territory,british indian ocean territory,,No,,IO,IOT,086,OfficiallyAssigned
+Virgin Islands (British),virgin islands (british),,No,,VG,VGB,092,OfficiallyAssigned
+Virgin Islands (U.S.),virgin islands (u.s.),,No,,VI,VIR,850,OfficiallyAssigned
+Brunei Darussalam,brunei darussalam,,Yes,,BN,BRN,096,OfficiallyAssigned
+Bulgaria,bulgaria,,Yes,,BG,BGR,100,OfficiallyAssigned
+Burkina Faso,burkina faso,,Yes,,BF,BFA,854,OfficiallyAssigned
+Burundi,burundi,,Yes,,BI,BDI,108,OfficiallyAssigned
+Cabo Verde,cabo verde,,Yes,,CV,CPV,132,OfficiallyAssigned
+Cambodia,cambodia,,Yes,,KH,KHM,116,OfficiallyAssigned
+Cameroon,cameroon,,Yes,,CM,CMR,120,OfficiallyAssigned
+Canada,canada,,Yes,,CA,CAN,124,OfficiallyAssigned
+Cayman Islands,cayman islands,,No,,KY,CYM,136,OfficiallyAssigned
+Central African Republic,central african republic,,Yes,,CF,CAF,140,OfficiallyAssigned
+Chad,chad,,Yes,,TD,TCD,148,OfficiallyAssigned
+Chile,chile,,Yes,,CL,CHL,152,OfficiallyAssigned
+China,china,,Yes,,CN,CHN,156,OfficiallyAssigned
+Christmas Island,christmas island,,No,,CX,CXR,162,OfficiallyAssigned
+Cocos (Keeling) Islands,cocos (keeling) islands,,No,,CC,CCK,166,OfficiallyAssigned
+Colombia,colombia,,Yes,,CO,COL,170,OfficiallyAssigned
+Comoros,comoros,,Yes,,KM,COM,174,OfficiallyAssigned
+Congo,congo,,Yes,,CG,COG,178,OfficiallyAssigned
+"Congo, Democratic Republic of the",congo,,Yes,,CD,COD,180,OfficiallyAssigned
+Cook Islands,cook islands,,No,,CK,COK,184,OfficiallyAssigned
+Costa Rica,costa rica,,Yes,,CR,CRI,188,OfficiallyAssigned
+Côte d'Ivoire,côte d'ivoire,,Yes,,CI,CIV,384,OfficiallyAssigned
+Croatia,croatia,,Yes,,HR,HRV,191,OfficiallyAssigned
+Cuba,cuba,,Yes,,CU,CUB,192,OfficiallyAssigned
+Curaçao,curaçao,,No,,CW,CUW,531,TransitionallyReserved
+Cyprus,cyprus,,Yes,,CY,CYP,196,OfficiallyAssigned
+Czech Republic,czech republic,,Yes,,CZ,CZE,203,OfficiallyAssigned
+Denmark,denmark,,Yes,,DK,DNK,208,OfficiallyAssigned
+Djibouti,djibouti,,Yes,,DJ,DJI,262,OfficiallyAssigned
+Dominica,dominica,,Yes,,DM,DMA,212,OfficiallyAssigned
+Dominican Republic,dominican republic,,Yes,,DO,DOM,214,OfficiallyAssigned
+Ecuador,ecuador,,Yes,,EC,ECU,218,OfficiallyAssigned
+Egypt,egypt,,Yes,,EG,EGY,818,OfficiallyAssigned
+El Salvador,el salvador,,Yes,,SV,SLV,222,OfficiallyAssigned
+Equatorial Guinea,equatorial guinea,,Yes,,GQ,GNQ,226,OfficiallyAssigned
+Eritrea,eritrea,,Yes,,ER,ERI,232,OfficiallyAssigned
+Estonia,estonia,,Yes,,EE,EST,233,OfficiallyAssigned
+Eswatini,eswatini,,Yes,,SZ,SWZ,748,OfficiallyAssigned
+Ethiopia,ethiopia,,Yes,,ET,ETH,231,OfficiallyAssigned
+Falkland Islands (Malvinas),falkland islands (malvinas),,No,,FK,FLK,238,OfficiallyAssigned
+Faroe Islands,faroe islands,,No,,FO,FRO,234,OfficiallyAssigned
+Fiji,fiji,,Yes,,FJ,FJI,242,OfficiallyAssigned
+Finland,finland,,Yes,,FI,FIN,246,OfficiallyAssigned
+France,france,,Yes,,FR,FRA,250,OfficiallyAssigned
+French Guiana,french guiana,,No,,GF,GUF,254,OfficiallyAssigned
+French Polynesia,french polynesia,,No,,PF,PYF,258,OfficiallyAssigned
+French Southern Territories,french southern territories,,No,,TF,ATF,260,OfficiallyAssigned
+Gabon,gabon,,Yes,,GA,GAB,266,OfficiallyAssigned
+Gambia,gambia,,Yes,,GM,GMB,270,OfficiallyAssigned
+Georgia,georgia,,Yes,,GE,GEO,268,OfficiallyAssigned
+Germany,germany,,Yes,,DE,DEU,276,OfficiallyAssigned
+Ghana,ghana,,Yes,,GH,GHA,288,OfficiallyAssigned
+Gibraltar,gibraltar,,No,,GI,GIB,292,OfficiallyAssigned
+Greece,greece,,Yes,,GR,GRC,300,OfficiallyAssigned
+Greenland,greenland,,No,,GL,GRL,304,OfficiallyAssigned
+Grenada,grenada,,Yes,,GD,GRD,308,OfficiallyAssigned
+Guadeloupe,guadeloupe,,No,,GP,GLP,312,OfficiallyAssigned
+Guam,guam,,No,,GU,GUM,316,OfficiallyAssigned
+Guatemala,guatemala,,Yes,,GT,GTM,320,OfficiallyAssigned
+Guernsey,guernsey,,No,,GG,GGY,831,OfficiallyAssigned
+Guinea,guinea,,Yes,,GN,GIN,324,OfficiallyAssigned
+Guinea-Bissau,guinea-bissau,,Yes,,GW,GNB,624,OfficiallyAssigned
+Guyana,guyana,,Yes,,GY,GUY,328,OfficiallyAssigned
+Haiti,haiti,,Yes,,HT,HTI,332,OfficiallyAssigned
+Heard Island and McDonald Islands,heard island and mcdonald islands,,No,,HM,HMD,334,OfficiallyAssigned
+Holy See,holy see,,Yes,,VA,VAT,336,OfficiallyAssigned
+Honduras,honduras,,Yes,,HN,HND,340,OfficiallyAssigned
+Hong Kong,hong kong,,No,,HK,HKG,344,OfficiallyAssigned
+Hungary,hungary,,Yes,,HU,HUN,348,OfficiallyAssigned
+Iceland,iceland,,Yes,,IS,ISL,352,OfficiallyAssigned
+India,india,,Yes,,IN,IND,356,OfficiallyAssigned
+Indonesia,indonesia,,Yes,,ID,IDN,360,OfficiallyAssigned
+Iran (Islamic Republic of),iran (islamic republic of),,Yes,,IR,IRN,364,OfficiallyAssigned
+Iraq,iraq,,Yes,,IQ,IRQ,368,OfficiallyAssigned
+Ireland,ireland,,Yes,,IE,IRL,372,OfficiallyAssigned
+Isle of Man,isle of man,,No,,IM,IMN,833,OfficiallyAssigned
+Israel,israel,,Yes,,IL,ISR,376,OfficiallyAssigned
+Italy,italy,,Yes,,IT,ITA,380,OfficiallyAssigned
+Jamaica,jamaica,,Yes,,JM,JAM,388,OfficiallyAssigned
+Japan,japan,,Yes,,JP,JPN,392,OfficiallyAssigned
+Jersey,jersey,,No,,JE,JEY,832,OfficiallyAssigned
+Jordan,jordan,,Yes,,JO,JOR,400,OfficiallyAssigned
+Kazakhstan,kazakhstan,,Yes,,KZ,KAZ,398,OfficiallyAssigned
+Kenya,kenya,,Yes,,KE,KEN,404,OfficiallyAssigned
+Kiribati,kiribati,,Yes,,KI,KIR,296,OfficiallyAssigned
+Korea (Democratic People's Republic of),korea (democratic people's republic of),,Yes,,KP,PRK,408,OfficiallyAssigned
+"Korea, Republic of",korea,,Yes,,KR,KOR,410,OfficiallyAssigned
+Kuwait,kuwait,,Yes,,KW,KWT,414,OfficiallyAssigned
+Kyrgyzstan,kyrgyzstan,,Yes,,KG,KGZ,417,OfficiallyAssigned
+Lao People's Democratic Republic,lao people's democratic republic,,Yes,,LA,LAO,418,OfficiallyAssigned
+Latvia,latvia,,Yes,,LV,LVA,428,OfficiallyAssigned
+Lebanon,lebanon,,Yes,,LB,LBN,422,OfficiallyAssigned
+Lesotho,lesotho,,Yes,,LS,LSO,426,OfficiallyAssigned
+Liberia,liberia,,Yes,,LR,LBR,430,OfficiallyAssigned
+Libya,libya,,Yes,,LY,LBY,434,OfficiallyAssigned
+Liechtenstein,liechtenstein,,Yes,,LI,LIE,438,OfficiallyAssigned
+Lithuania,lithuania,,Yes,,LT,LTU,440,OfficiallyAssigned
+Luxembourg,luxembourg,,Yes,,LU,LUX,442,OfficiallyAssigned
+Macao,macao,,No,,MO,MAC,446,OfficiallyAssigned
+Madagascar,madagascar,,Yes,,MG,MDG,450,OfficiallyAssigned
+Malawi,malawi,,Yes,,MW,MWI,454,OfficiallyAssigned
+Malaysia,malaysia,,Yes,,MY,MYS,458,OfficiallyAssigned
+Maldives,maldives,,Yes,,MV,MDV,462,OfficiallyAssigned
+Mali,mali,,Yes,,ML,MLI,466,OfficiallyAssigned
+Malta,malta,,Yes,,MT,MLT,470,OfficiallyAssigned
+Marshall Islands,marshall islands,,Yes,,MH,MHL,584,OfficiallyAssigned
+Martinique,martinique,,No,,MQ,MTQ,474,OfficiallyAssigned
+Mauritania,mauritania,,Yes,,MR,MRT,478,OfficiallyAssigned
+Mauritius,mauritius,,Yes,,MU,MUS,480,OfficiallyAssigned
+Mayotte,mayotte,,No,,YT,MYT,175,OfficiallyAssigned
+Mexico,mexico,,Yes,,MX,MEX,484,OfficiallyAssigned
+Micronesia (Federated States of),micronesia (federated states of),,Yes,,FM,FSM,583,OfficiallyAssigned
+"Moldova, Republic of",moldova,,Yes,,MD,MDA,498,OfficiallyAssigned
+Monaco,monaco,,Yes,,MC,MCO,492,OfficiallyAssigned
+Mongolia,mongolia,,Yes,,MN,MNG,496,OfficiallyAssigned
+Montenegro,montenegro,,Yes,,ME,MNE,499,OfficiallyAssigned
+Montserrat,montserrat,,No,,MS,MSR,500,OfficiallyAssigned
+Morocco,morocco,,Yes,,MA,MAR,504,OfficiallyAssigned
+Mozambique,mozambique,,Yes,,MZ,MOZ,508,OfficiallyAssigned
+Myanmar,myanmar,,Yes,,MM,MMR,104,OfficiallyAssigned
+Namibia,namibia,,Yes,,NA,NAM,516,OfficiallyAssigned
+Nauru,nauru,,Yes,,NR,NRU,520,OfficiallyAssigned
+Nepal,nepal,,Yes,,NP,NPL,524,OfficiallyAssigned
+Netherlands,netherlands,,Yes,,NL,NLD,528,OfficiallyAssigned
+New Caledonia,new caledonia,,No,,NC,NCL,540,OfficiallyAssigned
+New Zealand,new zealand,,Yes,,NZ,NZL,554,OfficiallyAssigned
+Nicaragua,nicaragua,,Yes,,NI,NIC,558,OfficiallyAssigned
+Niger,niger,,Yes,,NE,NER,562,OfficiallyAssigned
+Nigeria,nigeria,,Yes,,NG,NGA,566,OfficiallyAssigned
+Niue,niue,,No,,NU,NIU,570,OfficiallyAssigned
+Norfolk Island,norfolk island,,No,,NF,NFK,574,OfficiallyAssigned
+Northern Mariana Islands,northern mariana islands,,No,,MP,MNP,580,OfficiallyAssigned
+Norway,norway,,Yes,,NO,NOR,578,OfficiallyAssigned
+Oman,oman,,Yes,,OM,OMN,512,OfficiallyAssigned
+Pakistan,pakistan,,Yes,,PK,PAK,586,OfficiallyAssigned
+Palau,palau,,Yes,,PW,PLW,585,OfficiallyAssigned
+"Palestine, State of",palestine,,Yes,,PS,PSE,275,TransitionallyReserved
+Panama,panama,,Yes,,PA,PAN,591,OfficiallyAssigned
+Papua New Guinea,papua new guinea,,Yes,,PG,PNG,598,OfficiallyAssigned
+Paraguay,paraguay,,Yes,,PY,PRY,600,OfficiallyAssigned
+Peru,peru,,Yes,,PE,PER,604,OfficiallyAssigned
+Philippines,philippines,,Yes,,PH,PHL,608,OfficiallyAssigned
+Pitcairn,pitcairn,,No,,PN,PCN,612,OfficiallyAssigned
+Poland,poland,,Yes,,PL,POL,616,OfficiallyAssigned
+Portugal,portugal,,Yes,,PT,PRT,620,OfficiallyAssigned
+Puerto Rico,puerto rico,,No,,PR,PRI,630,OfficiallyAssigned
+Qatar,qatar,,Yes,,QA,QAT,634,OfficiallyAssigned
+Republic of North Macedonia,republic of north macedonia,,Yes,,MK,MKD,807,OfficiallyAssigned
+Romania,romania,,Yes,,RO,ROU,642,OfficiallyAssigned
+Russian Federation,russian federation,,Yes,,RU,RUS,643,OfficiallyAssigned
+Rwanda,rwanda,,Yes,,RW,RWA,646,OfficiallyAssigned
+Réunion,réunion,,No,,RE,REU,638,OfficiallyAssigned
+Saint Barthélemy,saint barthélemy,,No,,BL,BLM,652,OfficiallyAssigned
+"Saint Helena,  Ascension and Tristan da Cunha",saint helena,,No,,SH,SHN,654,OfficiallyAssigned
+Saint Kitts and Nevis,saint kitts and nevis,,Yes,,KN,KNA,659,OfficiallyAssigned
+Saint Lucia,saint lucia,,Yes,,LC,LCA,662,OfficiallyAssigned
+Saint Martin (French part),saint martin (french part),,No,,MF,MAF,663,OfficiallyAssigned
+Saint Pierre and Miquelon,saint pierre and miquelon,,No,,PM,SPM,666,OfficiallyAssigned
+Saint Vincent and the Grenadines,saint vincent and the grenadines,,Yes,,VC,VCT,670,OfficiallyAssigned
+Samoa,samoa,,Yes,,WS,WSM,882,OfficiallyAssigned
+San Marino,san marino,,Yes,,SM,SMR,674,OfficiallyAssigned
+Sao Tome and Principe,sao tome and principe,,Yes,,ST,STP,678,OfficiallyAssigned
+Saudi Arabia,saudi arabia,,Yes,,SA,SAU,682,OfficiallyAssigned
+Senegal,senegal,,Yes,,SN,SEN,686,OfficiallyAssigned
+Serbia,serbia,,Yes,,RS,SRB,688,OfficiallyAssigned
+Seychelles,seychelles,,Yes,,SC,SYC,690,OfficiallyAssigned
+Sierra Leone,sierra leone,,Yes,,SL,SLE,694,OfficiallyAssigned
+Singapore,singapore,,Yes,,SG,SGP,702,OfficiallyAssigned
+Sint Maarten (Dutch part),sint maarten (dutch part),,No,,SX,SXM,534,UserAssigned
+Slovakia,slovakia,,Yes,,SK,SVK,703,OfficiallyAssigned
+Slovenia,slovenia,,Yes,,SI,SVN,705,OfficiallyAssigned
+Solomon Islands,solomon islands,,Yes,,SB,SLB,090,OfficiallyAssigned
+Somalia,somalia,,Yes,,SO,SOM,706,OfficiallyAssigned
+South Africa,south africa,,Yes,,ZA,ZAF,710,OfficiallyAssigned
+South Georgia and the South Sandwich Islands,south georgia and the south sandwich islands,,No,,GS,SGS,239,OfficiallyAssigned
+South Sudan,south sudan,,Yes,,SS,SSD,728,UserAssigned
+Spain,spain,,Yes,,ES,ESP,724,OfficiallyAssigned
+Sri Lanka,sri lanka,,Yes,,LK,LKA,144,OfficiallyAssigned
+Sudan,sudan,,Yes,,SD,SDN,729,OfficiallyAssigned
+Suriname,suriname,,Yes,,SR,SUR,740,OfficiallyAssigned
+Svalbard and Jan Mayen,svalbard and jan mayen,,No,,SJ,SJM,744,OfficiallyAssigned
+Swaziland,swaziland,,Yes,,SZ,SWZ,748,OfficiallyAssigned
+Sweden,sweden,,Yes,,SE,SWE,752,OfficiallyAssigned
+Switzerland,switzerland,,Yes,,CH,CHE,756,OfficiallyAssigned
+Syrian Arab Republic,syrian arab republic,,Yes,,SY,SYR,760,OfficiallyAssigned
+"Taiwan, Province of China",taiwan,,Yes,,TW,TWN,158,OfficiallyAssigned
+Tajikistan,tajikistan,,Yes,,TJ,TJK,762,OfficiallyAssigned
+"Tanzania, United Republic of",tanzania,,Yes,,TZ,TZA,834,OfficiallyAssigned
+Thailand,thailand,,Yes,,TH,THA,764,OfficiallyAssigned
+Timor-Leste,timor-leste,,Yes,,TL,TLS,626,OfficiallyAssigned
+Togo,togo,,Yes,,TG,TGO,768,OfficiallyAssigned
+Tokelau,tokelau,,No,,TK,TKL,772,OfficiallyAssigned
+Tonga,tonga,,Yes,,TO,TON,776,OfficiallyAssigned
+Trinidad and Tobago,trinidad and tobago,,Yes,,TT,TTO,780,OfficiallyAssigned
+Tunisia,tunisia,,Yes,,TN,TUN,788,OfficiallyAssigned
+Turkey,turkey,,Yes,,TR,TUR,792,OfficiallyAssigned
+Turkmenistan,turkmenistan,,Yes,,TM,TKM,795,OfficiallyAssigned
+Turks and Caicos Islands,turks and caicos islands,,No,,TC,TCA,796,OfficiallyAssigned
+Tuvalu,tuvalu,,Yes,,TV,TUV,798,OfficiallyAssigned
+Uganda,uganda,,Yes,,UG,UGA,800,OfficiallyAssigned
+Ukraine,ukraine,,Yes,,UA,UKR,804,OfficiallyAssigned
+United Arab Emirates,united arab emirates,,Yes,,AE,ARE,784,OfficiallyAssigned
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,,Yes,,GB,GBR,826,OfficiallyAssigned
+United States Minor Outlying Islands,united states minor outlying islands,,No,,UM,UMI,581,OfficiallyAssigned
+United States of America,united states of america,,Yes,,US,USA,840,OfficiallyAssigned
+Uruguay,uruguay,,Yes,,UY,URY,858,OfficiallyAssigned
+Uzbekistan,uzbekistan,,Yes,,UZ,UZB,860,OfficiallyAssigned
+Vanuatu,vanuatu,,Yes,,VU,VUT,548,OfficiallyAssigned
+Venezuela (Bolivarian Republic of),venezuela (bolivarian republic of),,Yes,,VE,VEN,862,OfficiallyAssigned
+Viet Nam,viet nam,,Yes,,VN,VNM,704,OfficiallyAssigned
+Wallis and Futuna,wallis and futuna,,No,,WF,WLF,876,OfficiallyAssigned
+Western Sahara,western sahara,,No,,EH,ESH,732,OfficiallyAssigned
+Yemen,yemen,,Yes,,YE,YEM,887,OfficiallyAssigned
+Zambia,zambia,,Yes,,ZM,ZMB,894,OfficiallyAssigned
+Zimbabwe,zimbabwe,,Yes,,ZW,ZWE,716,OfficiallyAssigned

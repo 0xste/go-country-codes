@@ -1,4 +1,5 @@
 # go-country-codes
 
-A fork of https://github.com/launchdarkly/go-country-codes using go modules
+A maintained fork of https://github.com/launchdarkly/go-country-codes using go modules
 
+Uses: https://www.iso.org/obp/ui/#iso:pub:PUB500001:en for country code references
